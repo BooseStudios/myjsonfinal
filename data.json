@@ -1,0 +1,205 @@
+{"Video Game Companies":[
+    {
+        "id": 86,
+        "name": "Bethesda Softworks",
+        "founded": "1986",
+        "headquarters": "Rockville, Maryland, U.S.",
+        "founder": "Christopher Weaver",
+        "website":"www.bethesda.net",
+        "photo": "img\BethesdaSoftworksLogo.svg",
+        "games":[
+            {
+              "name": "The Elder Scrolls V: Skyrim",
+                "description": "The game's main story revolves around the player character and their quest to defeat Alduin the World-Eater, a dragon who is prophesied to destroy the world. The game is set two hundred years after the events of Oblivion, and takes place in the fictional province of Skyrim. Over the course of the game, the player completes quests and develops the character by improving skills. The game continues the open world tradition of its predecessors by allowing the player to travel anywhere in the game world at any time, and to ignore or postpone the main storyline indefinitely.",
+                "release": "November, 11, 2011",
+                "platform": "Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Nintendo Switch",
+                "photo": "img\Skyrimlogo.jpg"
+            },
+            {
+            "name": "Fallout 4",
+                "description": "The game is set within an open world post-apocalyptic environment that encompasses the city of Boston and the surrounding Massachusetts region known as The Commonwealth. The main story takes place in the year 2287, ten years after the events of Fallout 3 and 210 years after The Great War, which caused catastrophic nuclear devastation across the United States.",
+                "release": "November, 10, 2015",
+                "platform": "Microsoft Windows, PlayStation 4, Xbox One",
+                "photo": "img\Fallout4cover.jpg"
+            },
+            {
+            "name": "Prey",
+                "description": "In Prey, the player controls Morgan Yu while exploring the space station Talos I, in orbit around Earth–Moon L2, where research into a hostile alien collective called the Typhon is performed. As the Typhon escape confinement, the player uses a variety of weapons and abilities derived from the Typhon to avoid being killed by the aliens while looking to escape the station. The player gains access to areas of the station through a Metroidvania-style of progression by acquiring key items and abilities, eventually allowing the player to fully explore the station in an open world setting.",
+                "release": "May, 5, 2017",
+                "platform": "Microsoft Windows, PlayStation 4, Xbox One",
+                "photo": "img\Preycover.jpg"
+            },
+            {
+                "name": "The Evil Within",
+                "description": "The game centers on protagonist Sebastian Castellanos as he is pulled through a distorted world full of nightmarish locations and horrid creatures. Played in a third-person perspective, players battle disfigured nightmare-like enemies, including bosses, using guns and melee weapons, and progress through the levels, avoiding traps, using stealth, and finding collectables.",
+                "release": "October, 14, 2014",
+                "platform": "Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
+                "photo": "img\TheEvilWithin.jpg"
+            },
+            {
+            "name": "Doom",
+                "description": "Players take the role of an unnamed space marine as he battles demonic forces from Hell that have been unleashed by the Union Aerospace Corporation on a future-set colonized planet Mars. The gameplay returns to a faster pace with more open-ended levels, closer to the first two games than the slower survival horror approach of Doom 3. It also features environment traversal, character upgrades, and the ability to perform executions known as glory kills. The game also supports an online multiplayer component and a level editor known as SnapMap, co-developed with Certain Affinity[b] and Escalation Studios respectively.",
+                "release": "May, 13, 2016",
+                "platform": "Microsoft Windows, PlayStation 4, Xbox One, Nintendo Switch",
+                "photo": "img\DoomCover.jpg"
+            },
+            {
+                "name": "Dishonored",
+                "description": "Set in the fictional, plague-ridden industrial city of Dunwall, Dishonored follows the story of Corvo Attano, bodyguard to the Empress of the Isles. He is framed for her murder and forced to become an assassin, seeking revenge on those who conspired against him. Corvo is aided in his quest by the Loyalists—a resistance group fighting to reclaim Dunwall, and the Outsider—a powerful being who imbues Corvo with magical abilities. Several noted actors including Susan Sarandon, Brad Dourif, Carrie Fisher, Michael Madsen, Lena Headey and Chloë Grace Moretz provided voice work for the game.",
+                "release": "October, 9, 2012",
+                "platform": "Microsoft Windows, PlayStation 3, Xbox 360, PlayStation 4, Xbox One",
+                "photo": "img\Dishonoredboxart.jpg"
+            }
+        ]
+        
+    },
+    {
+    "id": 98,
+        "name": "Rockstar Games",
+        "founded": "1998",
+        "headquarters": "New York City, New York, U.S.",
+        "founder": "Sam Houser, Dan Houser, Terry Donovan, Jamie King",
+        "website":"www.rockstargames.com",
+        "photo": "img\RockstarGamesLogo.svg",
+        "games":[
+            {
+                 "name": "Grand Theft Auto V",
+                "description": "Set within the fictional state of San Andreas, based on Southern California, the single-player story follows three criminals and their efforts to commit heists while under pressure from a government agency. The open world design lets players freely roam San Andreas' open countryside and the fictional city of Los Santos, based on Los Angeles.",
+                "release": "September, 17, 2013",
+                "platform": "Microsoft Windows, PlayStation 3, Xbox 360, PlayStation 4, Xbox One",
+                "photo": "img\GrandTheftAutoV.png"
+            },
+            {
+                "name": "Red Dead Redemption",
+                "description": " The game, set during the decline of the American Frontier in the year 1911, follows John Marston, a former outlaw whose wife and son are taken hostage by the government in ransom for his services as a hired gun. Having no other choice, Marston sets out to bring the three members of his former gang to justice.",
+                "release": "May, 18, 2010",
+                "platform": "PlayStation 3, Xbox 360",
+                "photo": "img\RedDeadRedemption.jpg"
+            },
+            {
+                "name": "L.A. Noire",
+                "description": "L.A. Noire is set in Los Angeles in 1947 and challenges the player, controlling a Los Angeles Police Department (LAPD) officer, to solve a range of cases across five divisions. Players must investigate crime scenes for clues, follow up leads, and interrogate suspects, and the player's success at these activities will impact how much of each case's story is revealed.",
+                "release": "May, 17, 2011",
+                "platform": "PlayStation 3, Xbox 360, Microsoft Windows, Nintendo Switch, PlayStation 4, Xbox One",
+                "photo": "img\LANoireBoxArt.jpg"
+            },
+            {
+                "name": "Bully",
+                "description": "Set within the fictional town of Bullworth, the story follows a student and his efforts to rise through the ranks of the school system. The open world design lets the player freely roam Bullworth, which includes a number of towns. The game is played from a third-person perspective and its world is navigated on-foot, skateboard, scooter, bicycle or go-kart. Players control James Jimmy Hopkins, a student who is involuntarily enrolled at Bullworth Academy. He discovers that the school is filled with bullies, and becomes determined to bring peace, ultimately becoming more respected among town groups. Jimmy is also expected to attend class, which is a main gameplay aspect. In Scholarship Edition, a two-player competitive multiplayer mode lets two players compete for the highest score in different classes.",
+                "release": "October, 17, 2006",
+                "platform": "PlayStation 2, Wii, Xbox 360, Microsoft Windows, Android, iOS",
+                "photo": "img\Bullyfrontcover.jpg"
+            }
+            ]
+    },
+    {
+        "id": 09,
+        "name": "Mojang",
+        "founded": "2009",
+        "headquarters": "Stockholm, Sweden",
+        "founder": "Markus Persson",
+        "website":"www.mojang.com",
+        "photo": "img\Mojanglogo.svg",
+        "games":[
+            {
+                 "name": "Minecraft",
+                "description": "Minecraft is a sandbox video game created and designed by Swedish game designer Markus Notch Persson, and later fully developed and published by Mojang. The creative and building aspects of Minecraft allow players to build with a variety of different cubes in a 3D procedurally generated world. Other activities in the game include exploration, resource gathering, crafting, and combat.",
+                "release": "November, 18, 2011",
+                "platform": "Microsoft Windows, Mac OS X, Linux, Xbox 360, Xbox One, PlayStation 3, PlayStation 4, Windows Phone, Android, iOS, Nintendo Switch, Wii U, PlayStation Vita",
+                "photo": "img\Minecraftlogo.svg" 
+            },
+            {
+                "name": "Scrolls",
+                "description": "The game revolves around the use of cards, or scrolls, to work toward destroying three of the opposing player's five idols, which are static objects on either end of the battlefield. There are four different types of scrolls in Scrolls: creatures, structures, spells and enchantments. Creatures are played on the board and can attack to destroy enemy creatures and idols. Structures are also played on the board and, unlike creatures, are immobile. Spells have a wide range of effects, but are often played against creatures or structures. Enchantments are played on creatures and usually provide a lasting effect to that creature.",
+                "release": "December, 11, 2014",
+                "platform": "Microsoft Windows, OS X, Android",
+                "photo": "img\Scrollslogo.png"
+            }
+        ]
+    },
+    {
+    "id": 89,
+        "name": "Nintendo",
+        "founded": "1889",
+        "headquarters": "Kyoto, Japan",
+        "founder": "Fusajiro Yamauchi",
+        "website":"www.nintendo.com",
+        "photo": "img\Nintendo.svg",
+        "games":[
+    {
+      "name": "The Legend of Zelda: Breath of the Wild",
+                "description": "The game is a part of The Legend of Zelda series, and follows amnesiac protagonist Link, who awakens from a hundred-year slumber to a mysterious voice that guides him to defeat Calamity Ganon before he can destroy the kingdom of Hyrule.",
+                "release": "March, 3, 2017",
+                "platform": "Nintendo Switch, Wii U",
+                "photo": "img\BreathoftheWildFinalCover.jpg"
+    },
+            {
+                "name": "Super Mario Bros.",
+                "description": "In Super Mario Bros., the player controls Mario and his brother, Luigi, as they travel through the Mushroom Kingdom in order to rescue Princess Toadstool from the antagonist, Bowser.",
+                "release": "September 13, 1985",
+                "platform": "Nintendo Entertainment System",
+                "photo": "img\SuperMarioBrosbox.png"
+            },
+            {
+            "name": "Super Mario Odyssey",
+                "description": "the story follows Mario and Cappy, a spirit that possesses Mario's hat and allows him to take control of other characters and objects, as they set on a journey across various worlds to save Princess Peach from his nemesis Bowser, who plans to marry her. In contrast to the linear gameplay of prior entries, the game returns to the primarily open-ended, exploration-based gameplay previously featured in Super Mario 64 and Super Mario Sunshine.",
+                "release": "October, 27, 2017",
+                "platform": "Nintendo Switch",
+                "photo": "img\SuperMarioOdyssey.jpg"
+            },
+            {
+                "name": "Mario Kart 8",
+                "description": "Like other games in the series, in Mario Kart 8, players control characters from the Mario franchise and participate in kart racing on various race tracks, using items to hinder opponents or gain advantages. While incorporating game mechanics originally featured in earlier Mario Kart games, Mario Kart 8 introduces anti-gravity sections that allow players to drive on walls or ceilings. The game features multiple single-player and multiplayer game modes, and incorporates Miiverse functionality and online multiplayer supported via Nintendo Network.",
+                "release": "May 30, 2014",
+                "platform": "Wii U, Nintendo Switch",
+                "photo": "img\MarioKart8Boxart.jpg"
+            },
+            {
+                "name": "Donkey Kong",
+                "description": "An early example of the platform game genre, the gameplay focuses on maneuvering the main character across a series of platforms while dodging and jumping over obstacles. In the game, Mario (originally named Mr. Video and then Jumpman) must rescue a damsel in distress named Pauline (originally named Lady), from a giant ape named Donkey Kong. The hero and ape later became two of Nintendo's most popular and recognizable characters. Donkey Kong is one of the most important titles from the golden age of arcade video games, and is one of the most popular arcade games of all time.",
+                "release": "July, 9, 1981",
+                "platform": "Arcade",
+                "photo": "img\Donkey_Kong_arcade_at_the_QuakeCon_2005.png"
+            }
+]
+    },
+    {
+      "id": 82,
+        "name": "Electronic Arts",
+        "founded": "1982",
+        "headquarters": "Redwood City, California, U.S.",
+        "founder": "Trip Hawkins",
+        "website":"www.ea.com",
+        "photo": "img\300px-Electronic-Arts-Logo.png",
+        "games": [
+            {
+                "name": "The Sims",
+                "description": "The games in The Sims series are largely sandbox games, in that they lack any defined goals (except for some later expansion packs and console versions which introduced this gameplay style). The player creates virtual people called Sims and places them in houses and helps direct their moods and satisfy their desires. Players can either place their Sims in pre-constructed homes or build them themselves. Each successive expansion pack and game in the series augmented what the player could do with their Sims.",
+                "release": "February, 4, 2000",
+                "platform": "Microsoft Windows",
+                "photo": "img\500px-Logo_of_The_Sims_(2013).png"
+            },
+            {
+                "name": "Battlefield 1",
+                "description": "Similar to its predecessors, Battlefield 1 is a first-person shooter game that emphasizes teamwork. It is set in the period of World War I, and is inspired by historical events. Players can make use of World War I weapons, including bolt-action rifles, automatic and semi-automatic rifles, artillery, flamethrowers, and mustard gas to combat opponents.",
+                "release": "October, 21, 2016",
+                "platform": "Microsoft Windows, PlayStation 4, Xbox One",
+                "photo": "img\Battlefield_1_cover_art.jpg"
+            },
+            {
+                "name": "Spore",
+                "description": "Spore allows a player to control the development of a species from its beginnings as a microscopic organism, through development as an intelligent and social creature, to interstellar exploration as a spacefaring culture. It has drawn wide attention for its massive scope, and its use of open-ended gameplay and procedural generation. Throughout each stage, players are able to use various creators to produce content for their games. These are then automatically uploaded to the online Sporepedia and are accessible by other players for download.",
+                "release": "September, 7, 2008",
+                "platform": "Microsoft Windows, Mac OS X, iOS",
+                "photo": "img\Sporebox.jpg"
+            },
+            {
+                "name": "Mirror's Edge Catalyst",
+                "description": "Its plot hinges on a slight rewrite to the background story and overall premise of 2008's Mirror's Edge and focuses on protagonist Faith Connors' origin.",
+                "release": "June, 7, 2016",
+                "platform": "Microsoft Windows, PlayStation 4, Xbox One",
+                "photo": "img\Mirror's_Edge_Catalyst.jpg"
+            }
+        ]  
+    }
+]}
