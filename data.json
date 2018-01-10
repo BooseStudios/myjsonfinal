@@ -6,7 +6,7 @@
         "headquarters": "Rockville, Maryland, U.S.",
         "founder": "Christopher Weaver",
         "website":"www.bethesda.net",
-        "photo": "img/BethesdaSoftworksLogo.svg",
+        "photo": "img/BethesdaSoftworksLogo.png",
         "games":[
             {
               "name": "The Elder Scrolls V: Skyrim",
@@ -60,7 +60,7 @@
         "headquarters": "New York City, New York, U.S.",
         "founder": "Sam Houser, Dan Houser, Terry Donovan, Jamie King",
         "website":"www.rockstargames.com",
-        "photo": "img/RockstarGamesLogo.svg",
+        "photo": "img/RockstarGamesLogo.png",
         "games":[
             {
                  "name": "Grand Theft Auto V",
@@ -99,7 +99,7 @@
         "headquarters": "Stockholm, Sweden",
         "founder": "Markus Persson",
         "website":"www.mojang.com",
-        "photo": "img/Mojanglogo.svg",
+        "photo": "img/Mojanglogo.png",
         "games":[
             {
                  "name": "Minecraft",
@@ -124,7 +124,7 @@
         "headquarters": "Kyoto, Japan",
         "founder": "Fusajiro Yamauchi",
         "website":"www.nintendo.com",
-        "photo": "img/Nintendo.svg",
+        "photo": "img/Nintendo.png",
         "games":[
     {
       "name": "The Legend of Zelda: Breath of the Wild",
