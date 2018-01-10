@@ -1,6 +1,6 @@
 {"Video Game Companies":[
     {
-        "id": 86,
+        "id": "86",
         "name": "Bethesda Softworks",
         "founded": "1986",
         "headquarters": "Rockville, Maryland, U.S.",
@@ -54,7 +54,7 @@
         
     },
     {
-    "id": 98,
+    "id": "98",
         "name": "Rockstar Games",
         "founded": "1998",
         "headquarters": "New York City, New York, U.S.",
@@ -93,7 +93,7 @@
             ]
     },
     {
-        "id": 09,
+        "id": "09",
         "name": "Mojang",
         "founded": "2009",
         "headquarters": "Stockholm, Sweden",
@@ -118,7 +118,7 @@
         ]
     },
     {
-    "id": 89,
+    "id": "89",
         "name": "Nintendo",
         "founded": "1889",
         "headquarters": "Kyoto, Japan",
@@ -164,7 +164,7 @@
 ]
     },
     {
-      "id": 82,
+      "id": "82",
         "name": "Electronic Arts",
         "founded": "1982",
         "headquarters": "Redwood City, California, U.S.",
